@@ -30,7 +30,7 @@ Real-time speech translation subtitles that run entirely on your machine. Transc
 | --- | --- |
 | Python | **3.11 或 3.12**（不支持 3.13，RealtimeSTT 限定 `<3.13`） |
 | 内存 | 8 GB 起 |
-| 磁盘 | 约 4 GB（依赖 + 模型，torch 占大头） |
+| 磁盘 | 约 4 GB |
 
 ### 安装
 
